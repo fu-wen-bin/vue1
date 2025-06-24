@@ -4,7 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ddf3f88-7c4e-464f-8fa5-f506e5083630" name="更改" comment="" />
+    <list default="true" id="9ddf3f88-7c4e-464f-8fa5-f506e5083630" name="更改" comment="initialize Vue.js project with basic structure and configuration">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue01/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue01/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue01/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue01/jsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue01/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue01/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue01/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue01/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue01/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue01/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue01/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue01/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue01/src/router/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue01/src/store/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue01/src/views/AboutView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue01/src/views/HomeView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue01/vue.config.js" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,25 +60,25 @@
     <option name="showLibraryContents" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "ignore_missing_gitignore": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_interpreter_path": "node",
-    "nodejs_package_manager_path": "npm",
-    "npm.npm serve.executor": "Run",
-    "settings.editor.selected.configurable": "fileTemplates",
-    "ts.external.directory.path": "D:\\Webstorm\\WebStorm 2024.3.5\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore_missing_gitignore&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.npm serve.executor&quot;: &quot;Run&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;D:\\Webstorm\\WebStorm 2024.3.5\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="npm serve" type="js.build_tools.npm">
       <package-json value="$PROJECT_DIR$/package.json" />
@@ -93,7 +112,20 @@
       <workItem from="1750389865797" duration="304000" />
       <workItem from="1750682592246" duration="1964000" />
       <workItem from="1750684946988" duration="5421000" />
+      <workItem from="1750695529485" duration="370000" />
+      <workItem from="1750731317917" duration="13000" />
+      <workItem from="1750758709691" duration="27000" />
+      <workItem from="1750758746247" duration="70000" />
     </task>
+    <task id="LOCAL-00001" summary="initialize Vue.js project with basic structure and configuration">
+      <option name="closed" value="true" />
+      <created>1750695610845</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1750695610845</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,5 +141,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initialize Vue.js project with basic structure and configuration" />
+    <option name="LAST_COMMIT_MESSAGE" value="initialize Vue.js project with basic structure and configuration" />
   </component>
 </project>
